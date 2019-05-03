@@ -1,0 +1,16 @@
+composite 036
+composite1 6
+composite2 6
+composite3 6
+composite4 3
+composite5 2
+composite6 237
+composite7 37
+
+deferred 456
+deferred1  6
+deferred2  46 
+deferred3  46
+deferred4  6
+deferred5  6
+deferred6 3
