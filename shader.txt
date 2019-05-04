@@ -1,0 +1,4 @@
+composite write water surface reflection to gaux3 
+composite4 gaux3 blend to scene color
+composite6 taa
+composite7 write previous frame to gaux1 
